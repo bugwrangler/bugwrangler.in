@@ -18,6 +18,7 @@
 * [OWASP AppSec USA](talks/appsec-usa.md)
 * [null0x00 & OWASP Meetups](talks/null0x00-and-owasp-meetup.md)
 * [BarCamp](talks/barcamp.md)
+* [Weekend Testing](talks/weekend-testing.md)
 
 ## Security Vulnerabilities
 
