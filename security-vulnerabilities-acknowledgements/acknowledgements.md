@@ -24,8 +24,9 @@
 | Oath | Mobile |
 | Pinterest | Mobile |
 | Twitter | Mobile |
-
-
+| Pocket  | Web |
+| Sifter | Configurations |
+| Adobe | Configurations |
 
 * **AI**: Authentication Issue 
 * **IDOR**: Insecure Direct Object Reference 
@@ -42,4 +43,6 @@
 * **RCE**: Remote Code Execution 
 * **Mobile**: Mobile AppSec Vulnerability  
 * **Configurations:** Using Components with Known Vulnerabilities
+
+
 
