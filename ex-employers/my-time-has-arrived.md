@@ -14,7 +14,7 @@ Yogi, Prerna, Akanksha, & Pawan – You are being awesome as my backbone technic
 
 ![](../.gitbook/assets/india_2017.png)
 
-[@Digital Security Researcher](mailto:Digital.Security.Researcher@accenture.com)  [@Digital.Security.Devs](mailto:Digital.Security.Devs@accenture.com)  - I hope you will forgive me \(not today, but some day maybe\) all the troubles I caused to you, pressure I made and maybe some harsh words that fell in the middle of the battleground. I hope you will trust me when I tell you that everything I did, I did for the wellbeing of the project and our product, and - believer or not - for yours. I also profited a lot from your youth, enthusiasm, knowledge and energy! 
+@Digital Security Researcher  @Digital.Security.Devs  - I hope you will forgive me \(not today, but some day maybe\) all the troubles I caused to you, pressure I made and maybe some harsh words that fell in the middle of the battleground. I hope you will trust me when I tell you that everything I did, I did for the wellbeing of the project and our product, and - believer or not - for yours. I also profited a lot from your youth, enthusiasm, knowledge and energy! 
 
 Once again:  Let us rock together while defining our new mission “IOT Security & Advancing Mobile AppSec” \#Fy18
 
