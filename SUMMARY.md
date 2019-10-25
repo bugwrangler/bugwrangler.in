@@ -5,9 +5,9 @@
 * [PGP Key](pgp-key.md)
 * [Patent](patent.md)
 
-## AppSec
+## AppSec <a id="mobile-appsec"></a>
 
-## Cloud
+## Cloud <a id="security"></a>
 
 ## Publications
 
@@ -20,7 +20,7 @@
 * [BarCamp](talks/barcamp.md)
 * [Weekend Testing](talks/weekend-testing.md)
 
-## Security Vulnerabilities
+## Security Vulnerabilities <a id="security-vulnerabilities-acknowledgements"></a>
 
 * [Acknowledgements](security-vulnerabilities-acknowledgements/acknowledgements.md)
 
@@ -28,4 +28,5 @@
 
 * [Adios... Wipro & Microsoft family!](ex-employers/adios...-wipro-and-microsoft-family.md)
 * [Well, It is not the END \#Passbrains](ex-employers/well-it-is-not-the-end-passbrains.md)
+* [My Time has arrived](ex-employers/my-time-has-arrived.md)
 
